@@ -1,0 +1,22 @@
+# Laravel
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.env.backup
+.env.*.php
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Movie project
+/movie/vendor/
+/movie/node_modules/
+/movie/.env
+/movie/bootstrap/cache/
+/movie/storage/logs/
